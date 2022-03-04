@@ -41,22 +41,3 @@ npm run build
 ```sh
 npm run serve
 ```
-
-## Author
-
-👤 **Ryu Kurnianto**
-
-* Github: [@ryuuwiz](https://github.com/ryuuwiz)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-## 📝 License
-
-Copyright © 2021 [Ryu Kurnianto](https://github.com/ryuuwiz).
-
-This project is [MIT](https://www.mit.edu/~amini/LICENSE.md) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
